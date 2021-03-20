@@ -12,7 +12,7 @@ def func2(alpha):  # Вторая подфункция системы
     return -1 * (2 * alpha - 3)
 
 def func3(alpha):  # Третья подфункция системы
-    return 4 * alpha ** 2 - 16 * alpha + 15
+    return 5 * alpha ** 2 - 16 * alpha + 15
 
 if __name__ == "__main__":
     real_integral, emp_integral = [], []
